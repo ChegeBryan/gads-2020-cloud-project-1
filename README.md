@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Completed_Qwiklabs-5-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-6-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 # gads-2020-cloud-project-1
 
@@ -29,4 +29,9 @@ Documents my Completion for GADS2020 Phase 2 Project
 <details>
   <summary>Recommend Products using ML with Cloud SQL and Dataproc</summary>
   <img src="screenshots/5.png">
+</details>
+
+<details>
+  <summary>Predict Visitor Purchases with a Classification Model with BigQuery ML</summary>
+  <img src="screenshots/6.png">
 </details>
