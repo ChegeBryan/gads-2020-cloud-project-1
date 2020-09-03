@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Completed_Qwiklabs-6-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-7-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 # gads-2020-cloud-project-1
 
@@ -34,4 +34,9 @@ Documents my Completion for GADS2020 Phase 2 Project
 <details>
   <summary>Predict Visitor Purchases with a Classification Model with BigQuery ML</summary>
   <img src="screenshots/6.png">
+</details>
+
+<details>
+  <summary>Create a Streaming Data Pipeline for a Real-Time Dashboard with Cloud Dataflow</summary>
+  <img src="screenshots/7.png">
 </details>
