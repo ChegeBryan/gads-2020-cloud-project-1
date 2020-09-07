@@ -43,5 +43,5 @@ Documents my Completion for GADS2020 Phase 2 Project
 
 <details>
   <summary>Classify Images with Pre-built ML Models using Cloud Vision API and AutoML</summary>
-  <img src="screenshots/7.png">
+  <img src="screenshots/8.png">
 </details>
