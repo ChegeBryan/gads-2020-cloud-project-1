@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Completed_Qwiklabs-8-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-9-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 # gads-2020-cloud-project-1
 
@@ -44,4 +44,9 @@ Documents my Completion for GADS2020 Phase 2 Project
 <details>
   <summary>Classify Images with Pre-built ML Models using Cloud Vision API and AutoML</summary>
   <img src="screenshots/8.png">
+</details>
+
+<details>
+  <summary>AK8S-03 Creating a GKE Cluster via GCP Console</summary>
+  <img src="screenshots/9.png">
 </details>
