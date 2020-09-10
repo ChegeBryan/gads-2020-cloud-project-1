@@ -50,3 +50,5 @@ Documents my Completion for GADS2020 Phase 2 Project
   <summary>AK8S-03 Creating a GKE Cluster via GCP Console</summary>
   <img src="screenshots/9.png">
 </details>
+
+[Translations](translation.md)
