@@ -51,4 +51,6 @@ Documents my Completion for GADS2020 Phase 2 Project
   <img src="screenshots/9.png">
 </details>
 
-[Translations](translation.md)
+## Translation Code
+
+[Google Cloud Fundamentals: Getting Started with Compute Engine](translation1.md)
