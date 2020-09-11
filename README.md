@@ -54,3 +54,5 @@ Documents my Completion for GADS2020 Phase 2 Project
 ## Translation Code
 
 [Google Cloud Fundamentals: Getting Started with Compute Engine](translation1.md)
+
+[Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL](translation2.md)
