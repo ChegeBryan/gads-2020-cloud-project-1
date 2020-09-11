@@ -59,15 +59,27 @@
          ```
          gcloud compute firewall-rules create default-allow-http \
          --direction=INGRESS \
+         --priority=1000 \
          --network=default \
          --action=ALLOW \
-         --rules=tcp:80
+         --rules=tcp:80 \
+         --source-ranges=0.0.0.0/0 \
+         --target-tags=http-server
          ```
 
     - We are creating a firewall rule and named it `default-allow-http`.
     - We have specified the direction using the `--direction` flag. The set value is `INGRESS` (could have also typed `IN`), This allows ingress traffic to our instance.
+    - `--priority` value must an integer between 0 and 65535, both inclusive. It defines the Relative priority which determines precedence of conflicting rules, e.g if a rule a another firewall rule is set that with rules that might conflict with te ones set here then the rule with a lower priority values takes precedence.
     - `--network` we are attaching to rule our `default` network.
     - `--action` flag is set to `ALLOW` which affects how `--rules` value is treated. For this instance we are allowing `tcp` protocol connections over port `80`.
+    - `--source-ranges` which is a list of IP address blocks that are allowed to make inbound connections that match the firewall rule to the instances on the network. For our case we allow all incoming connections from inside or outside the network.
+    - `--target-tags` this flag value is a list of instance tags indicating the set of instances on the network which may accept connections that match the firewall rule.
+
+    To apply the firewall rule to our VM instance, run:
+
+        ```
+        gcloud compute instances add-tags first-vm --tags http-server
+        ```
 
 4.  Create our second VM instance
     To create our second Vm instance, run:
