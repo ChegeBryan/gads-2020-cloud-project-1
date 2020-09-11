@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Completed_Qwiklabs-10-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-11-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 # gads-2020-cloud-project-1
 
@@ -55,6 +55,14 @@ Documents my Completion for GADS2020 Phase 2 Project
   <summary>Google Cloud Fundamentals: Getting Started with Compute Engine</summary>
   <img src="screenshots/10.png">
 </details>
+
+<details>
+  <summary>Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL</summary>
+  <img src="screenshots/11.png">
+</details>
+
+&nbsp;
+&nbsp;
 
 ## Translation Code
 
