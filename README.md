@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Completed_Qwiklabs-9-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Completed_Qwiklabs-10-informational?style=flat&logo=qwiklabs&logoColor=white&color=blue)
 
 # gads-2020-cloud-project-1
 
@@ -49,6 +49,11 @@ Documents my Completion for GADS2020 Phase 2 Project
 <details>
   <summary>AK8S-03 Creating a GKE Cluster via GCP Console</summary>
   <img src="screenshots/9.png">
+</details>
+
+<details>
+  <summary>Google Cloud Fundamentals: Getting Started with Compute Engine</summary>
+  <img src="screenshots/10.png">
 </details>
 
 ## Translation Code
